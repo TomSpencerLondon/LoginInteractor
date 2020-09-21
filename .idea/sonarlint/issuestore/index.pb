@@ -1,0 +1,23 @@
+
+\
+,test/authorizer/AcceptingAuthorizerStub.java,1/9/193a0dbec2672262520f8733294874e2c0b54a0d
+\
+,test/authorizer/RejectingAuthorizerStub.java,0/b/0be11caf44229353380eb0907a56bfba0f90d799
+Q
+!test/usecases/FakeAuthorizer.java,6/7/679cd4f7dcf0d134084fc055e53e1c3d71c5d725
+X
+(src/main/java/authorizer/Authorizer.java,9/8/982b2880f71585a1f11c0d0f99aa3ccfe14f5bfa
+P
+ test/usecases/AuthorizerSpy.java,3/8/38b453f65612adfe57e38adbbe0a5f965a3dde4a
+Y
+)test/usecases/RejectingAuthorizerSpy.java,4/f/4f7d58f4753c7600435697444f9c3d810a3ad395
+_
+/src/main/java/usecases/LoginInteractorImpl.java,8/3/8387c5d7981d50df717362c531465abec1639d78
+Y
+)test/usecases/AcceptingAuthorizerSpy.java,4/1/414adea7c8ce5a379f4ae464860c8703a34ca764
+^
+.test/usecases/RepeatedLoginAuthorizerMock.java,b/a/ba754c6edf143b23ace7a79565dc56aa8af3a065
+C
+LoginInteractor.iml,f/a/fa203e2cd648b61fb42e614dbef8cb39e422303e
+V
+&test/usecases/LoginInteractorTest.java,5/4/545523c0127c2313b02651261597724775e1c689
